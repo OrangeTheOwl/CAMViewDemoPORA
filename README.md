@@ -32,7 +32,7 @@ Zadnji commit je bil oktobra 2022
 
 implementation ("com.journeyapps:zxing-android-embedded:4.3.0")
 
-![implementacija](/assets/implementacija.png)
+![implementacija](/assets/implemetacija.png)
 
 ###Integracija v Activity
 
