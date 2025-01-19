@@ -1,20 +1,20 @@
 # CAMViewDemoPORA - Zxing Library
 
-##Zakaj
+## Zakaj
 Zxing je knižnica, ki omogoča preprosto uporabo kamere za implementacijo bralca črtnih kod.
 
-##Prednosti ✅
+## Prednosti ✅
 - Preprosta implementacija s pomočjo Intentov
 - Lahko se vgradi v Activity za napredno prilagoditev uporabniškega vmesnika in logike
 - Omogoča skeniranje v ležečem in pokončnem načinu
 - Kamera se optimizirano zaganja v ozadju v svoji niti 
 
 
-##Slabosti ❌
+## Slabosti ❌
 - Osnovan predvsem za javo
 - Deluje le na verzijah SDK 24+, verzije SDK 19+ bi morale delovati ampak niso preverjene oziroma testirane
 
-##Licenca 📄
+## Licenca 📄
 Apache 2.0 Licenca
 Odprto kodna licenca, ki omogoča prosto uporabo in modifikacijo kode za kogarkoli.
 
@@ -27,8 +27,8 @@ Odprto kodna licenca, ki omogoča prosto uporabo in modifikacijo kode za kogarko
 Na knjižnici je delalo več ljudi, v osnovi jo je vzdrževala zgolj ena oseba.
 Zadnji commit je bil oktobra 2022
 
-##Lasten osnoven primer
-###Implementacija knjižnice
+## Lasten osnoven primer
+### Implementacija knjižnice
 
 implementation ("com.journeyapps:zxing-android-embedded:4.3.0")
 
@@ -40,7 +40,7 @@ implementation ("com.journeyapps:zxing-android-embedded:4.3.0")
 
 ![integracija01](/assets/preprostaIntegracija02.png)
 
-###Rezultat
+### Rezultat
 
 ![rez01](/assets/rezultat01.jpg)
 
