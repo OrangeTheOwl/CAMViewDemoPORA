@@ -32,3 +32,26 @@ Zadnji commit je bil oktobra 2022
 
 implementation ("com.journeyapps:zxing-android-embedded:4.3.0")
 
+![implementacija](/assets/implementacija.png)
+
+###Integracija v Activity
+
+![integracija01](/assets/preprostaIntegracija01.png)
+
+![integracija01](/assets/preprostaIntegracija02.png)
+
+###Rezultat
+
+![rez01](/assets/rezultat01.jpg)
+
+![rez02](/assets/rezultat02.jpg)
+
+![rez03](/assets/rezultat03.jpg)
+
+![rez04](/assets/rezultat04.jpg)
+
+
+
+
+
+
